@@ -253,3 +253,4 @@
 ## 2020-04-12 20:10:01 - feat(docs): add docs endpoint (8/20)
 ## 2020-05-02 19:03:05 - feat(queue): implement queue module (2/20)
 ## 2020-05-10 10:35:48 - feat(core): create core handler (5/20)
+## 2020-05-16 22:52:19 - feat(log): add log endpoint (11/20)
