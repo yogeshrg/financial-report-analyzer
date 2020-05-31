@@ -5,3 +5,4 @@
 ## 2020-05-10 10:35:48 - feat(core): create core handler (5/20)
 ## 2020-05-16 22:52:19 - feat(log): add log endpoint (11/20)
 ## 2020-05-17 14:45:18 - feat(monitor): add monitor support (13/20)
+## 2020-05-31 19:22:28 - feat(build): add build support (14/20)
