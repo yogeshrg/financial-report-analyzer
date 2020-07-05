@@ -257,3 +257,4 @@
 ## 2020-05-17 14:45:18 - feat(monitor): add monitor support (13/20)
 ## 2020-05-31 19:22:28 - feat(build): add build support (14/20)
 ## 2020-06-27 23:26:25 - feat(docs): create docs handler (6/20)
+## 2020-07-05 10:33:32 - feat(auth): create auth handler (17/20)
