@@ -135,3 +135,4 @@
 ## 2020-07-05 10:33:32 - feat(auth): create auth handler (17/20)
 ## 2020-07-05 17:22:44 - feat(log): add log endpoint (1/20)
 ## 2020-07-25 14:58:53 - feat(queue): create queue handler (11/20)
+## 2020-08-01 14:34:16 - feat(security): create security handler (12/20)
