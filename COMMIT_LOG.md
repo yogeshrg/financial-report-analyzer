@@ -12,3 +12,4 @@
 ## 2020-07-25 14:58:53 - feat(queue): create queue handler (11/20)
 ## 2020-08-01 14:34:16 - feat(security): create security handler (12/20)
 ## 2020-08-23 16:47:55 - feat(alert): implement alert feature (13/20)
+## 2020-09-20 22:44:14 - feat(worker): implement worker module (8/20)
