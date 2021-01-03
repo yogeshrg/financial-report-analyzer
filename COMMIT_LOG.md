@@ -264,3 +264,4 @@
 ## 2020-08-23 16:47:55 - feat(alert): implement alert feature (13/20)
 ## 2020-09-20 22:44:14 - feat(worker): implement worker module (8/20)
 ## 2020-11-07 13:27:03 - feat(config): add config support (17/20)
+## 2021-01-03 15:38:11 - feat(ui): add ui support (9/20)
