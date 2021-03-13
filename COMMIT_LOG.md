@@ -16,3 +16,4 @@
 ## 2020-11-07 13:27:03 - feat(config): add config support (17/20)
 ## 2021-01-03 15:38:11 - feat(ui): add ui support (9/20)
 ## 2021-01-09 20:19:46 - feat(core): implement core feature (11/20)
+## 2021-03-13 11:16:15 - feat(docs): implement docs feature (4/20)
