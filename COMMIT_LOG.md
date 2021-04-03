@@ -142,3 +142,4 @@
 ## 2021-01-03 15:38:11 - feat(ui): add ui support (9/20)
 ## 2021-01-09 20:19:46 - feat(core): implement core feature (11/20)
 ## 2021-03-13 11:16:15 - feat(docs): implement docs feature (4/20)
+## 2021-04-03 19:40:26 - feat(db): add db endpoint (3/20)
