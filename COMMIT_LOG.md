@@ -271,3 +271,4 @@
 ## 2021-04-04 17:09:26 - feat(test): implement test module (1/20)
 ## 2021-04-11 12:41:10 - feat(ui): create ui handler (5/20)
 ## 2021-07-03 17:32:04 - feat(ui): implement ui feature (2/20)
+## 2021-07-22 17:45:29 - feat(config): add config support
