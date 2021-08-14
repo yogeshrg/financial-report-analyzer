@@ -273,3 +273,4 @@
 ## 2021-07-03 17:32:04 - feat(ui): implement ui feature (2/20)
 ## 2021-07-22 17:45:29 - feat(config): add config support
 ## 2021-07-25 20:15:19 - feat(db): add db endpoint (5/20)
+## 2021-08-14 22:47:45 - feat(test): add test endpoint (16/20)
