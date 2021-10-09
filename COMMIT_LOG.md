@@ -155,3 +155,4 @@
 ## 2021-08-22 17:18:49 - feat(config): create config handler (3/20)
 ## 2021-09-11 17:13:24 - feat(log): implement log module (8/20)
 ## 2021-10-03 10:08:02 - feat(ci): implement ci module (7/20)
+## 2021-10-09 18:07:07 - feat(build): add build support (12/20)
