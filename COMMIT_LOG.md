@@ -282,3 +282,4 @@
 ## 2021-10-03 10:08:02 - feat(ci): implement ci module (7/20)
 ## 2021-10-09 18:07:07 - feat(build): add build support (12/20)
 ## 2021-11-21 15:37:00 - feat(test): create test handler (2/20)
+## 2021-12-05 22:27:48 - feat(worker): implement worker feature (1/20)
