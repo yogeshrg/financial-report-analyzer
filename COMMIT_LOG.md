@@ -33,3 +33,4 @@
 ## 2021-10-09 18:07:07 - feat(build): add build support (12/20)
 ## 2021-11-21 15:37:00 - feat(test): create test handler (2/20)
 ## 2021-12-05 22:27:48 - feat(worker): implement worker feature (1/20)
+## 2021-12-11 16:47:28 - feat(docs): add docs support (9/20)
