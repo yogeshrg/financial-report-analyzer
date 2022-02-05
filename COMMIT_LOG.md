@@ -36,3 +36,4 @@
 ## 2021-12-11 16:47:28 - feat(docs): add docs support (9/20)
 ## 2021-12-18 16:16:18 - feat(config): implement config feature (6/20)
 ## 2022-01-15 15:02:17 - feat(ui): add ui endpoint (5/20)
+## 2022-02-05 21:41:21 - feat(api): implement api module (14/20)
