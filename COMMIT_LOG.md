@@ -288,3 +288,4 @@
 ## 2022-01-15 15:02:17 - feat(ui): add ui endpoint (5/20)
 ## 2022-02-05 21:41:21 - feat(api): implement api module (14/20)
 ## 2022-02-06 12:06:48 - feat(metric): add metric support (12/20)
+## 2022-03-20 16:51:16 - feat(config): create config handler (19/20)
