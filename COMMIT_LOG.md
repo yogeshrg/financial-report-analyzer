@@ -291,3 +291,4 @@
 ## 2022-03-20 16:51:16 - feat(config): create config handler (19/20)
 ## 2022-03-26 16:48:40 - feat(test): create test handler (17/20)
 ## 2022-04-02 22:10:19 - feat(docs): add docs endpoint (4/20)
+## 2022-04-17 18:51:45 - feat(metric): implement metric module (12/20)
