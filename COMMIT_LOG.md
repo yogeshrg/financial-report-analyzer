@@ -293,3 +293,4 @@
 ## 2022-04-02 22:10:19 - feat(docs): add docs endpoint (4/20)
 ## 2022-04-17 18:51:45 - feat(metric): implement metric module (12/20)
 ## 2022-04-23 09:00:20 - feat(worker): add worker endpoint (1/20)
+## 2022-04-23 14:14:29 - feat(ui): add ui endpoint (5/20)
