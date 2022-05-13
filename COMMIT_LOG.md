@@ -45,3 +45,4 @@
 ## 2022-04-23 09:00:20 - feat(worker): add worker endpoint (1/20)
 ## 2022-04-23 14:14:29 - feat(ui): add ui endpoint (5/20)
 ## 2022-04-23 18:04:29 - feat(core): implement core module (10/20)
+## 2022-05-13 17:36:01 - feat(cache): create cache handler
