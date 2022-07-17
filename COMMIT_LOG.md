@@ -299,3 +299,4 @@
 ## 2022-05-15 09:19:46 - feat(cache): add cache endpoint (11/20)
 ## 2022-06-25 10:17:45 - feat(ui): implement ui module (13/20)
 ## 2022-06-25 15:03:41 - feat(worker): implement worker module (3/20)
+## 2022-07-17 13:15:01 - feat(metric): create metric handler (2/20)
