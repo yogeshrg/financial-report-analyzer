@@ -52,3 +52,4 @@
 ## 2022-07-17 13:15:01 - feat(metric): create metric handler (2/20)
 ## 2022-07-17 15:19:34 - feat(model): implement model feature (13/20)
 ## 2022-08-07 12:12:27 - feat(config): implement config module (1/20)
+## 2022-08-14 17:34:51 - feat(docs): add docs support (14/20)
