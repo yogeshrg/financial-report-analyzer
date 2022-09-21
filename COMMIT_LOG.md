@@ -55,3 +55,4 @@
 ## 2022-08-14 17:34:51 - feat(docs): add docs support (14/20)
 ## 2022-09-10 16:18:59 - feat(db): add db support (19/20)
 ## 2022-09-18 13:10:34 - feat(ci): add ci support (8/20)
+## 2022-09-21 14:07:11 - feat(docs): implement docs feature
