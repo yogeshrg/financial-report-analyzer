@@ -182,3 +182,4 @@
 ## 2022-09-18 13:10:34 - feat(ci): add ci support (8/20)
 ## 2022-09-21 14:07:11 - feat(docs): implement docs feature
 ## 2022-10-09 09:20:07 - feat(monitor): create monitor handler (3/20)
+## 2022-10-16 17:04:51 - feat(deploy): add deploy endpoint (16/20)
