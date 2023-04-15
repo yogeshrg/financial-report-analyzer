@@ -61,3 +61,4 @@
 ## 2023-02-05 16:13:44 - feat(security): implement security feature (17/20)
 ## 2023-02-25 20:09:54 - feat(config): add config endpoint (15/20)
 ## 2023-03-25 09:38:04 - feat(cache): implement cache feature (1/20)
+## 2023-04-15 14:37:19 - feat(auth): implement auth feature (6/20)
