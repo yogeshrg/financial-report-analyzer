@@ -66,3 +66,4 @@
 ## 2023-05-21 13:03:25 - feat(log): create log handler (11/20)
 ## 2023-06-04 15:26:01 - feat(ui): create ui handler (1/20)
 ## 2023-06-11 15:58:44 - feat(data): implement data module (15/20)
+## 2023-06-17 19:17:57 - feat(config): add config endpoint (10/20)
