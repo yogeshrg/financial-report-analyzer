@@ -71,3 +71,4 @@
 ## 2023-08-06 12:44:55 - feat(build): create build handler (9/20)
 ## 2023-09-10 14:33:28 - feat(worker): implement worker module (1/20)
 ## 2023-10-29 10:32:59 - feat(monitor): implement monitor feature (7/20)
+## 2023-11-12 14:43:08 - feat(deploy): add deploy support (1/20)
