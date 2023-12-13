@@ -199,3 +199,4 @@
 ## 2023-11-12 14:43:08 - feat(deploy): add deploy support (1/20)
 ## 2023-11-18 11:18:49 - feat(infra): add infra endpoint (18/20)
 ## 2023-11-26 23:21:32 - feat(data): implement data feature (7/20)
+## 2023-12-13 21:16:05 - feat(build): implement build feature
