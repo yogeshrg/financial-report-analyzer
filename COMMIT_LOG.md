@@ -77,3 +77,4 @@
 ## 2023-12-13 21:16:05 - feat(build): implement build feature
 ## 2024-01-06 16:14:55 - feat(build): implement build feature (10/20)
 ## 2024-01-21 14:43:47 - feat(log): implement log feature (1/20)
+## 2024-01-28 22:19:54 - feat(infra): add infra support (12/20)
