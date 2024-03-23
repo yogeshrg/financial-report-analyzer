@@ -79,3 +79,4 @@
 ## 2024-01-21 14:43:47 - feat(log): implement log feature (1/20)
 ## 2024-01-28 22:19:54 - feat(infra): add infra support (12/20)
 ## 2024-03-10 16:55:47 - feat(config): add config support (1/20)
+## 2024-03-23 17:22:22 - feat(ui): implement ui module (1/20)
