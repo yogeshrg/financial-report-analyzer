@@ -83,3 +83,4 @@
 ## 2024-03-23 19:56:18 - feat(db): create db handler (3/20)
 ## 2024-04-20 21:40:54 - feat(cache): implement cache feature (19/20)
 ## 2024-05-18 22:04:51 - feat(docs): create docs handler (16/20)
+## 2024-05-19 19:44:49 - feat(worker): add worker support (15/20)
