@@ -85,3 +85,4 @@
 ## 2024-05-18 22:04:51 - feat(docs): create docs handler (16/20)
 ## 2024-05-19 19:44:49 - feat(worker): add worker support (15/20)
 ## 2024-08-03 10:18:36 - feat(alert): create alert handler (17/20)
+## 2024-08-11 19:34:02 - feat(api): add api support (1/20)
