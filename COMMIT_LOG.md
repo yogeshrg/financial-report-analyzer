@@ -87,3 +87,4 @@
 ## 2024-08-03 10:18:36 - feat(alert): create alert handler (17/20)
 ## 2024-08-11 19:34:02 - feat(api): add api support (1/20)
 ## 2024-08-17 17:15:47 - feat(ci): create ci handler (10/20)
+## 2024-08-18 19:37:56 - feat(infra): add infra endpoint (6/20)
